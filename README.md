@@ -21,6 +21,13 @@ Our proposed XDT-CXR method.
 
 For more details, please check out our [<ins>**paper**</ins>](https://arxiv.org/abs/2408.11493v1). 
 
+# :rocket: Release
+* **(August 21, 2024)**
+  * Paper uploaded on arXiv.
+* **(July 4, 2024)**
+  * Paper accepted in Machine Learning for Healthcare, 2024.
+
+
 ## Overview
 We showed the performance of XDT-CXR vs other zero-shot learning (ZSL) baselines. 
 
