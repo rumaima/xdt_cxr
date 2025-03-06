@@ -1,3 +1,0 @@
-MODEL:
-  BACKBONE:
-    NAME: "RN50x64"
