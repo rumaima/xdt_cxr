@@ -37,7 +37,7 @@ This repository provides the official PyTorch implementation of our paper **"XDT
 * The model is trained as a binary classifier on one pulmonary disease to perform zero-shot classification on another novel pulmonary disease.
 
 <p align="center">
-  <img src="utils/Overview_method.png" alt="XDT-CXR Method Overview" width="600">
+  <img src="figs/MLHC.png" alt="XDT-CXR Method Overview" width="600">
 </p>
 
 ## :rocket: Release
@@ -51,9 +51,6 @@ This repository provides the official PyTorch implementation of our paper **"XDT
 
 ### Hardware
 This implementation is designed for a single GPU with 24GB of memory.
-
-### Environment 
-The code is tested on PyTorch **1.x**.
 
 ### Datasets 
 
