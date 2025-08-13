@@ -45,7 +45,7 @@ This repository provides the official PyTorch implementation of our paper **"XDT
 * **(August 21, 2024)**
   * Paper uploaded on arXiv.
 * **(July 4, 2024)**
-  * Paper accepted at Machine Learning for Healthcare, 2024.
+  * Paper accepted at Machine Learning for Healthcare (MLHC), 2024.
 
 ## Prerequisites
 
